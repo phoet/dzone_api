@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.dzone.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dz="http://www.developerzone.com/modules/dz/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>dzone.com: latest front page</title>
+    <link>http://www.dzone.com/links/</link>
+    <description>dzone.com: fresh links for developers</description>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 DZone, Inc.</copyright>
+    <pubDate>Tue, 27 Jul 2010 16:34:22 GMT</pubDate>
+    <dc:creator>The dzone.com community</dc:creator>
+    <dc:date>2010-07-27T16:34:22Z</dc:date>
+    <dc:language>en-us</dc:language>
+    <dc:rights>Copyright (c) 2008 DZone, Inc.</dc:rights>
+    <dz:selfLink>http://www.dzone.com/links/feed/frontpage/rss.xml</dz:selfLink>
+    <image>
+      <title>dzone.com: fresh links for developers</title>
+      <url>http://www.dzone.com/images/std/dzone.com_258x55.gif</url>
+      <link>http://www.dzone.com/links/</link>
+    </image>
+    <feedburner:info uri="dzone/frontpage" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.dzone.com/feed/frontpage/rss.xml" /><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Fwww.dzone.com%2Ffeed%2Ffrontpage%2Frss.xml" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Fwww.dzone.com%2Ffeed%2Ffrontpage%2Frss.xml" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Fwww.dzone.com%2Ffeed%2Ffrontpage%2Frss.xml" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://www.dzone.com/feed/frontpage/rss.xml" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Fwww.dzone.com%2Ffeed%2Ffrontpage%2Frss.xml" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Fwww.dzone.com%2Ffeed%2Ffrontpage%2Frss.xml" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Fwww.dzone.com%2Ffeed%2Ffrontpage%2Frss.xml" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><item>
+      <title>CXF-DOSGi 1.2 Has All the Tools for Distributed OSGi</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/efnKYPI6Jrw/cxfdosgi_12_has_all_the_tools_for_distributed_osgi.html</link>
+      <description>The Distributed OSGi subproject of Apache CXF was released this week with a new reference implementation included for the Remote Service Admin (RSA) specification</description>
+      <category>java</category>
+      <category>open source</category>
+      <category>tools</category>
+      <category>web services</category>
+      <pubDate>Tue, 27 Jul 2010 16:10:15 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455815.html</guid>
+      <dc:creator>mitchp</dc:creator>
+      <dc:date>2010-07-27T16:10:15Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/cxfdosgi_12_has_all_the_tools_for_distributed_osgi.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455815.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>The Distributed OSGi subproject of Apache CXF was released this week with a new reference implementation included for the Remote Service Admin (RSA) specification<br/><br/><a href='http://www.dzone.com/links/rss/cxfdosgi_12_has_all_the_tools_for_distributed_osgi.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455815' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/efnKYPI6Jrw" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455815</dz:linkId>
+      <dz:submitDate>2010-07-27T15:22:28Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T16:10:15Z</dz:promoteDate>
+      <dz:voteUpCount>5</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>89</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455815.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>mitchp</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/478055.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/cxfdosgi_12_has_all_the_tools_for_distributed_osgi.html</feedburner:origLink></item>
+    <item>
+      <title>Servlet 3.0 – A spaghetti API?</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/YunmVb3ePGA/servlet_30_a_spaghetti_api.html</link>
+      <description>The introduction in Servlet 3.0 of “web fragments” and both annotation-based and programmatic mechanisms for introducing components into a web-application are all very welcome.</description>
+      <category>server</category>
+      <category>usability</category>
+      <pubDate>Tue, 27 Jul 2010 16:08:50 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455315.html</guid>
+      <dc:creator>jrandol</dc:creator>
+      <dc:date>2010-07-27T16:08:50Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/servlet_30_a_spaghetti_api.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455315.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>The introduction in Servlet 3.0 of “web fragments” and both annotation-based and programmatic mechanisms for introducing components into a web-application are all very welcome.<br/><br/><a href='http://www.dzone.com/links/rss/servlet_30_a_spaghetti_api.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455315' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/YunmVb3ePGA" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455315</dz:linkId>
+      <dz:submitDate>2010-07-26T22:42:04Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T16:08:50Z</dz:promoteDate>
+      <dz:voteUpCount>4</dz:voteUpCount>
+      <dz:voteDownCount>1</dz:voteDownCount>
+      <dz:clickCount>73</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455315.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>jrandol</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/743753.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/servlet_30_a_spaghetti_api.html</feedburner:origLink></item>
+    <item>
+      <title>The Whyline for Java</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/DwhvZt_moFE/the_whyline_for_java.html</link>
+      <description>Usually when we see something go wrong in a program's output, we have to guess what code is causing the problem. We usually guess wrong. The Whyline for Java allows you to instead ask questions about a program's output and get answers in terms of the code responsible.</description>
+      <category>java</category>
+      <category>tools</category>
+      <pubDate>Tue, 27 Jul 2010 15:58:10 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/454905.html</guid>
+      <dc:creator>Gene Gotimer</dc:creator>
+      <dc:date>2010-07-27T15:58:10Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/the_whyline_for_java.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/454905.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>Usually when we see something go wrong in a program's output, we have to guess what code is causing the problem. We usually guess wrong. The Whyline for Java allows you to instead ask questions about a program's output and get answers in terms of the code responsible.<br/><br/><a href='http://www.dzone.com/links/rss/the_whyline_for_java.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=454905' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/DwhvZt_moFE" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>454905</dz:linkId>
+      <dz:submitDate>2010-07-26T11:40:27Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T15:58:10Z</dz:promoteDate>
+      <dz:voteUpCount>7</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>113</dz:clickCount>
+      <dz:commentCount>1</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/454905.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>dzone@portinfo.com</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/204573.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/the_whyline_for_java.html</feedburner:origLink></item>
+    <item>
+      <title>ASP.NET vs Ruby on Rails</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/yHhtnA7uh3Q/aspnet_vs_ruby_on_rails.html</link>
+      <description>James Avery has worked with ASP.NET for a long time, but recently he's fallen in love with Ruby on Rails.  Rails is perfect for a 2-person startup like the one Avery runs.</description>
+      <category>.net</category>
+      <category>ruby</category>
+      <pubDate>Tue, 27 Jul 2010 15:57:14 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455751.html</guid>
+      <dc:creator>lyndsey</dc:creator>
+      <dc:date>2010-07-27T15:57:14Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/aspnet_vs_ruby_on_rails.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455751.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>James Avery has worked with ASP.NET for a long time, but recently he's fallen in love with Ruby on Rails.  Rails is perfect for a 2-person startup like the one Avery runs.  <br/><br/><a href='http://www.dzone.com/links/rss/aspnet_vs_ruby_on_rails.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455751' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/yHhtnA7uh3Q" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455751</dz:linkId>
+      <dz:submitDate>2010-07-27T14:08:30Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T15:57:14Z</dz:promoteDate>
+      <dz:voteUpCount>6</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>65</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455751.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>lyndsey</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/398735.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/aspnet_vs_ruby_on_rails.html</feedburner:origLink></item>
+    <item>
+      <title>How to Conduct Effective Code Reviews</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/2Xnf3h83jCA/how_to_conduct_effective_code_reviews.html</link>
+      <description>This article tried to share with you a few points on how to make code reviews really effective.</description>
+      <category>agile</category>
+      <pubDate>Tue, 27 Jul 2010 15:46:02 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455683.html</guid>
+      <dc:creator>t_edwin_s</dc:creator>
+      <dc:date>2010-07-27T15:46:02Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/how_to_conduct_effective_code_reviews.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455683.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>This article tried to share with you a few points on how to make code reviews really effective. <br/><br/><a href='http://www.dzone.com/links/rss/how_to_conduct_effective_code_reviews.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455683' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/2Xnf3h83jCA" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455683</dz:linkId>
+      <dz:submitDate>2010-07-27T12:23:42Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T15:46:02Z</dz:promoteDate>
+      <dz:voteUpCount>7</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>73</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455683.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>t_edwin_s</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/217218.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/how_to_conduct_effective_code_reviews.html</feedburner:origLink></item>
+    <item>
+      <title>35 Innovative And Fresh Illustrator Tutorials</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/Or92M3s5bQA/35_innovative_and_fresh_illustrator_tutorials.html</link>
+      <description>Collection of 35 hand-picked innovative and fresh Illustrator tutorials ready for you to follow and pick up tons of new techniques.</description>
+      <category>tools</category>
+      <category>web design</category>
+      <pubDate>Tue, 27 Jul 2010 14:51:44 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455227.html</guid>
+      <dc:creator>colaja</dc:creator>
+      <dc:date>2010-07-27T14:51:44Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/35_innovative_and_fresh_illustrator_tutorials.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455227.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>Collection of 35 hand-picked innovative and fresh Illustrator tutorials ready for you to follow and pick up tons of new techniques.<br/><br/><a href='http://www.dzone.com/links/rss/35_innovative_and_fresh_illustrator_tutorials.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455227' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/Or92M3s5bQA" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455227</dz:linkId>
+      <dz:submitDate>2010-07-26T19:22:25Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T14:51:44Z</dz:promoteDate>
+      <dz:voteUpCount>8</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>43</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455227.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>colaja</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/416531.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/35_innovative_and_fresh_illustrator_tutorials.html</feedburner:origLink></item>
+    <item>
+      <title>Understanding Covariance and Contravariance</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/vjVe9TTNup0/understanding_covariance_and_contravariance.html</link>
+      <description>There are as many explanations, examples, and mathematical descriptions for covariance and contravariance as you care to explore, but all of this information adds to the confusion. This article shows you why they are important concepts for software developers and how you can leverage variance when you design your code.</description>
+      <category>.net</category>
+      <category>frameworks</category>
+      <category>microsoft</category>
+      <category>tools</category>
+      <pubDate>Tue, 27 Jul 2010 14:34:12 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455155.html</guid>
+      <dc:creator>HeyNow</dc:creator>
+      <dc:date>2010-07-27T14:34:12Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/understanding_covariance_and_contravariance.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455155.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>There are as many explanations, examples, and mathematical descriptions for covariance and contravariance as you care to explore, but all of this information adds to the confusion. This article shows you why they are important concepts for software developers and how you can leverage variance when you design your code.<br/><br/><a href='http://www.dzone.com/links/rss/understanding_covariance_and_contravariance.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455155' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/vjVe9TTNup0" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455155</dz:linkId>
+      <dz:submitDate>2010-07-26T17:20:19Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T14:34:12Z</dz:promoteDate>
+      <dz:voteUpCount>6</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>152</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455155.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>HeyNow</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/459212.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/understanding_covariance_and_contravariance.html</feedburner:origLink></item>
+    <item>
+      <title>If you're an architect...</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/R6G0DtNFj3I/if_youre_an_architect.html</link>
+      <description>A simple link to a presentation and a great discussion on many architectural topics...join the conversation!</description>
+      <category>.net</category>
+      <category>agile</category>
+      <category>methodology</category>
+      <pubDate>Tue, 27 Jul 2010 14:34:11 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455159.html</guid>
+      <dc:creator>TheSiteMan</dc:creator>
+      <dc:date>2010-07-27T14:34:11Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/if_youre_an_architect.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455159.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>A simple link to a presentation and a great discussion on many architectural topics...join the conversation!<br/><br/><a href='http://www.dzone.com/links/rss/if_youre_an_architect.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455159' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/R6G0DtNFj3I" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455159</dz:linkId>
+      <dz:submitDate>2010-07-26T17:23:39Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T14:34:11Z</dz:promoteDate>
+      <dz:voteUpCount>4</dz:voteUpCount>
+      <dz:voteDownCount>2</dz:voteDownCount>
+      <dz:clickCount>206</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455159.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>thesiteman</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/493211.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/if_youre_an_architect.html</feedburner:origLink></item>
+    <item>
+      <title>How programming checklists can save a lot of time and anguish</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/LHkz0adWBPk/how_programming_checklists_can_save_a_lot_of_time.html</link>
+      <description>Airplane pilots are highly educated and trained individuals. Yet they have detailed checklists for most everything they do. Why? Because human beings are imperfect and mistakes can rapidly turn fatal in a plane. So they use the checklists and in doing so make flying much safer. Hospitals have recently started doing the same. Again medical personal are highly educated, yet they are fining instituting checklists recuduce complications and save lives. A lot of lives.</description>
+      <category>methodology</category>
+      <pubDate>Tue, 27 Jul 2010 14:34:01 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455181.html</guid>
+      <dc:creator>dt80257</dc:creator>
+      <dc:date>2010-07-27T14:34:01Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/how_programming_checklists_can_save_a_lot_of_time.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455181.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>Airplane pilots are highly educated and trained individuals. Yet they have detailed checklists for most everything they do. Why? Because human beings are imperfect and mistakes can rapidly turn fatal in a plane. So they use the checklists and in doing so make flying much safer. Hospitals have recently started doing the same. Again medical personal are highly educated, yet they are fining instituting checklists recuduce complications and save lives. A lot of lives.<br/><br/><a href='http://www.dzone.com/links/rss/how_programming_checklists_can_save_a_lot_of_time.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455181' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/LHkz0adWBPk" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455181</dz:linkId>
+      <dz:submitDate>2010-07-26T17:47:41Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T14:34:01Z</dz:promoteDate>
+      <dz:voteUpCount>7</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>244</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455181.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>dt80257</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/95023.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/how_programming_checklists_can_save_a_lot_of_time.html</feedburner:origLink></item>
+    <item>
+      <title>Exadel JavaFX Plug-in for Eclipse version 1.3.4 with Organize Imports</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/btJBJ2FGi5U/exadel_javafx_plugin_for_eclipse_version_134_with.html</link>
+      <description>New version of Exadel JavaFX Plug-in for Eclipse version 1.3.4 with Organize Imports feature</description>
+      <category>eclipse</category>
+      <category>java</category>
+      <category>ria</category>
+      <pubDate>Tue, 27 Jul 2010 14:34:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455197.html</guid>
+      <dc:creator>maxkatz</dc:creator>
+      <dc:date>2010-07-27T14:34:00Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/exadel_javafx_plugin_for_eclipse_version_134_with.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455197.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>New version of Exadel JavaFX Plug-in for Eclipse version 1.3.4 with Organize Imports feature<br/><br/><a href='http://www.dzone.com/links/rss/exadel_javafx_plugin_for_eclipse_version_134_with.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455197' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/btJBJ2FGi5U" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455197</dz:linkId>
+      <dz:submitDate>2010-07-26T18:22:53Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T14:34:00Z</dz:promoteDate>
+      <dz:voteUpCount>6</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>27</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455197.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>maxkatz</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/311319.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/exadel_javafx_plugin_for_eclipse_version_134_with.html</feedburner:origLink></item>
+    <item>
+      <title>Bind Enum to a WPF ListBox using ObjectDataProvider</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/KdK6nEOxuh0/bind_enum_to_a_wpf_listbox_using_objectdataprovid.html</link>
+      <description>The Enum.GetValues() method retrieves an array of the values of the constants in an Enum. Let us see how to use this method and bind an Enumeration to a WPF ListBox using the ObjectDataProvider.</description>
+      <category>.net</category>
+      <category>gui</category>
+      <pubDate>Tue, 27 Jul 2010 14:31:58 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455679.html</guid>
+      <dc:creator>gracekolen</dc:creator>
+      <dc:date>2010-07-27T14:31:58Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/bind_enum_to_a_wpf_listbox_using_objectdataprovid.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455679.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>The Enum.GetValues() method retrieves an array of the values of the constants in an Enum. Let us see how to use this method and bind an Enumeration to a WPF ListBox using the ObjectDataProvider.<br/><br/><a href='http://www.dzone.com/links/rss/bind_enum_to_a_wpf_listbox_using_objectdataprovid.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455679' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/KdK6nEOxuh0" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455679</dz:linkId>
+      <dz:submitDate>2010-07-27T12:19:49Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T14:31:58Z</dz:promoteDate>
+      <dz:voteUpCount>5</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>19</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455679.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>gracekolen</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/762603.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/bind_enum_to_a_wpf_listbox_using_objectdataprovid.html</feedburner:origLink></item>
+    <item>
+      <title>Find Maximum Value in each Row – SQL Server</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/HeuJn8Ce4ck/find_maximum_value_in_each_row_sql_server.html</link>
+      <description>Here’s a simple and efficient way to find the maximum value in each row using SQL Server UNPIVOT</description>
+      <category>.net</category>
+      <category>database</category>
+      <pubDate>Tue, 27 Jul 2010 14:31:55 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455687.html</guid>
+      <dc:creator>gracekolen</dc:creator>
+      <dc:date>2010-07-27T14:31:55Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/find_maximum_value_in_each_row_sql_server.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455687.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>Here’s a simple and efficient way to find the maximum value in each row using SQL Server UNPIVOT<br/><br/><a href='http://www.dzone.com/links/rss/find_maximum_value_in_each_row_sql_server.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455687' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/HeuJn8Ce4ck" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455687</dz:linkId>
+      <dz:submitDate>2010-07-27T12:24:15Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T14:31:55Z</dz:promoteDate>
+      <dz:voteUpCount>5</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>35</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455687.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>gracekolen</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/762603.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/find_maximum_value_in_each_row_sql_server.html</feedburner:origLink></item>
+    <item>
+      <title>Discovering Java Annotations</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/KbjGCPnXfYA/discovering_java_annotations.html</link>
+      <description>Annotations  are proving to be widely popular these days. Many annotation-based frameworks (Spring, JPA, Tapestry to name few) are seeing the light of the day, and even small scale projects are using annotation based meta-programming for better separation of concerns. Annotations are wonderful and are sure to stay here.</description>
+      <category>frameworks</category>
+      <category>java</category>
+      <pubDate>Tue, 27 Jul 2010 12:47:33 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455565.html</guid>
+      <dc:creator>jsugrue</dc:creator>
+      <dc:date>2010-07-27T12:47:33Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/discovering_java_annotations.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455565.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>Annotations  are proving to be widely popular these days. Many annotation-based frameworks (Spring, JPA, Tapestry to name few) are seeing the light of the day, and even small scale projects are using annotation based meta-programming for better separation of concerns. Annotations are wonderful and are sure to stay here. <br/><br/><a href='http://www.dzone.com/links/rss/discovering_java_annotations.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455565' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/KbjGCPnXfYA" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455565</dz:linkId>
+      <dz:submitDate>2010-07-27T08:44:35Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T12:47:33Z</dz:promoteDate>
+      <dz:voteUpCount>16</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>372</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455565.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>jsugrue</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/185351.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/discovering_java_annotations.html</feedburner:origLink></item>
+    <item>
+      <title>Whatever happened to Perl?</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/oxwubcN5rEY/whatever_happened_to_perl.html</link>
+      <description>Once one of the pillars of the Internet, is Perl now fading away -- or will Perl 6 will spark a renaissance for the programming language?</description>
+      <category>perl</category>
+      <category>reviews</category>
+      <pubDate>Tue, 27 Jul 2010 12:47:29 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455065.html</guid>
+      <dc:creator>mswatcher</dc:creator>
+      <dc:date>2010-07-27T12:47:29Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/whatever_happened_to_perl.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455065.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>Once one of the pillars of the Internet, is Perl now fading away -- or will Perl 6 will spark a renaissance for the programming language?<br/><br/><a href='http://www.dzone.com/links/rss/whatever_happened_to_perl.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455065' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/oxwubcN5rEY" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455065</dz:linkId>
+      <dz:submitDate>2010-07-26T15:36:36Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T12:47:29Z</dz:promoteDate>
+      <dz:voteUpCount>10</dz:voteUpCount>
+      <dz:voteDownCount>1</dz:voteDownCount>
+      <dz:clickCount>311</dz:clickCount>
+      <dz:commentCount>1</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455065.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>mswatcher</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/225256.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/whatever_happened_to_perl.html</feedburner:origLink></item>
+    <item>
+      <title>Ubuntu's two big advantages over Windows and Mac</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/eDCaQfsScLI/ubuntus_two_big_advantages_over_windows_and_mac.html</link>
+      <description>I’ve been using the latest version (10.04) of Ubuntu Linux since April and there’s a lot to like about it. I announced earlier this year that I was giving desktop Linux another look, and I went with Ubuntu because it is the Linux distribution most focused on a desktop OS. I have lots of observations about the Ubuntu experience and how it compares to Mac and Windows, but I’m going to save most of that feedback for another article.</description>
+      <category>reviews</category>
+      <category>unix-linux</category>
+      <pubDate>Tue, 27 Jul 2010 12:38:04 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455067.html</guid>
+      <dc:creator>mswatcher</dc:creator>
+      <dc:date>2010-07-27T12:38:04Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/ubuntus_two_big_advantages_over_windows_and_mac.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455067.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>I’ve been using the latest version (10.04) of Ubuntu Linux since April and there’s a lot to like about it. I announced earlier this year that I was giving desktop Linux another look, and I went with Ubuntu because it is the Linux distribution most focused on a desktop OS. I have lots of observations about the Ubuntu experience and how it compares to Mac and Windows, but I’m going to save most of that feedback for another article.<br/><br/><a href='http://www.dzone.com/links/rss/ubuntus_two_big_advantages_over_windows_and_mac.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455067' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/eDCaQfsScLI" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455067</dz:linkId>
+      <dz:submitDate>2010-07-26T15:37:32Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T12:38:04Z</dz:promoteDate>
+      <dz:voteUpCount>12</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>518</dz:clickCount>
+      <dz:commentCount>1</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455067.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>mswatcher</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/225256.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/ubuntus_two_big_advantages_over_windows_and_mac.html</feedburner:origLink></item>
+    <item>
+      <title>ESB frameworks</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/I7rTkNWpqS4/esb_frameworks_2.html</link>
+      <description>A blog on introduction to ESB framework capabilities.</description>
+      <category>frameworks</category>
+      <category>java</category>
+      <category>web services</category>
+      <pubDate>Tue, 27 Jul 2010 12:37:56 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455169.html</guid>
+      <dc:creator>naveenb</dc:creator>
+      <dc:date>2010-07-27T12:37:56Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/esb_frameworks_2.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455169.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>A blog on introduction to ESB framework capabilities.<br/><br/><a href='http://www.dzone.com/links/rss/esb_frameworks_2.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455169' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/I7rTkNWpqS4" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455169</dz:linkId>
+      <dz:submitDate>2010-07-26T17:33:28Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T12:37:56Z</dz:promoteDate>
+      <dz:voteUpCount>12</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>315</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455169.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>naveenb</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/713653.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/esb_frameworks_2.html</feedburner:origLink></item>
+    <item>
+      <title>Avoiding Nulls with "Tell, Don't Ask" Style</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/yA19uFqxpdM/mistaeks_i_hav_made_avoiding_nulls_with_tell_dont.html</link>
+      <description>In the discussion group for Growing Object-Oriented Software, Guided by Tests Uberto Barbini wrote: "[I'm] not sure how to use "Tell, Don't Ask" for removing null reference[s]."&#xD;
+&#xD;
+If an object has a query method that returns a value that might not exist, then it must have some way of returning the "does not exist" case.</description>
+      <category>agile</category>
+      <category>how-to</category>
+      <category>java</category>
+      <category>methodology</category>
+      <pubDate>Tue, 27 Jul 2010 12:26:11 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455495.html</guid>
+      <dc:creator>piccoloprincipe</dc:creator>
+      <dc:date>2010-07-27T12:26:11Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/mistaeks_i_hav_made_avoiding_nulls_with_tell_dont.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455495.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>In the discussion group for Growing Object-Oriented Software, Guided by Tests Uberto Barbini wrote: "[I'm] not sure how to use "Tell, Don't Ask" for removing null reference[s]."
+
+If an object has a query method that returns a value that might not exist, then it must have some way of returning the "does not exist" case. <br/><br/><a href='http://www.dzone.com/links/rss/mistaeks_i_hav_made_avoiding_nulls_with_tell_dont.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455495' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/yA19uFqxpdM" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455495</dz:linkId>
+      <dz:submitDate>2010-07-27T06:52:30Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T12:26:11Z</dz:promoteDate>
+      <dz:voteUpCount>10</dz:voteUpCount>
+      <dz:voteDownCount>2</dz:voteDownCount>
+      <dz:clickCount>440</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455495.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>piccoloprincipe</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/355617.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/mistaeks_i_hav_made_avoiding_nulls_with_tell_dont.html</feedburner:origLink></item>
+    <item>
+      <title>-2000 Lines Of Code</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/A7hN8oBEoig/2000_lines_of_code.html</link>
+      <description>In early 1982, the Lisa software team was trying to buckle down for the big push to ship the software within the next six months. Some of the managers decided that it would be a good idea to track the progress of each individual engineer in terms of the amount of code that they wrote from week to week. They devised a form that each engineer was required to submit every Friday, which included a field for the number of lines of code that were written that week.</description>
+      <category>reviews</category>
+      <pubDate>Tue, 27 Jul 2010 12:21:06 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/454567.html</guid>
+      <dc:creator>mitchp</dc:creator>
+      <dc:date>2010-07-27T12:21:06Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/2000_lines_of_code.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/454567.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>In early 1982, the Lisa software team was trying to buckle down for the big push to ship the software within the next six months. Some of the managers decided that it would be a good idea to track the progress of each individual engineer in terms of the amount of code that they wrote from week to week. They devised a form that each engineer was required to submit every Friday, which included a field for the number of lines of code that were written that week. <br/><br/><a href='http://www.dzone.com/links/rss/2000_lines_of_code.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=454567' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/A7hN8oBEoig" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>454567</dz:linkId>
+      <dz:submitDate>2010-07-25T20:38:54Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T12:21:06Z</dz:promoteDate>
+      <dz:voteUpCount>13</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>477</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/454567.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>mitchp</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/478055.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/2000_lines_of_code.html</feedburner:origLink></item>
+    <item>
+      <title>jBPM 4.4 is live</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/XYEEoTx9G30/jbpm_44_is_live.html</link>
+      <description>The wait was long yet worth the while. jBPM 4.4 is now available for download. This new version resolves nothing short of 108 issues including feature requests and bugs. Compared to v4.3, with 47 issues, and v4.2, with 40, this release is a double pack.</description>
+      <category>java</category>
+      <category>news</category>
+      <category>open source</category>
+      <category>tools</category>
+      <pubDate>Tue, 27 Jul 2010 12:20:54 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/454499.html</guid>
+      <dc:creator>mitchp</dc:creator>
+      <dc:date>2010-07-27T12:20:54Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/jbpm_44_is_live.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/454499.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>The wait was long yet worth the while. jBPM 4.4 is now available for download. This new version resolves nothing short of 108 issues including feature requests and bugs. Compared to v4.3, with 47 issues, and v4.2, with 40, this release is a double pack.<br/><br/><a href='http://www.dzone.com/links/rss/jbpm_44_is_live.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=454499' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/XYEEoTx9G30" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>454499</dz:linkId>
+      <dz:submitDate>2010-07-25T17:15:15Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T12:20:54Z</dz:promoteDate>
+      <dz:voteUpCount>8</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>169</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/454499.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>mitchp</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/478055.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/jbpm_44_is_live.html</feedburner:origLink></item>
+    <item>
+      <title>SQL Server - CAST vs CONVERT</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/3knAdutqlGk/sql_server_cast_vs_convert.html</link>
+      <description>This post explains the differences between CAST and CONVERT functions in SQL Server.</description>
+      <category>database</category>
+      <category>how-to</category>
+      <category>microsoft</category>
+      <pubDate>Tue, 27 Jul 2010 12:20:39 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455437.html</guid>
+      <dc:creator>jacobsebastian</dc:creator>
+      <dc:date>2010-07-27T12:20:39Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/sql_server_cast_vs_convert.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455437.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>This post explains the differences between CAST and CONVERT functions in SQL Server.<br/><br/><a href='http://www.dzone.com/links/rss/sql_server_cast_vs_convert.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455437' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/3knAdutqlGk" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455437</dz:linkId>
+      <dz:submitDate>2010-07-27T05:13:26Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T12:20:39Z</dz:promoteDate>
+      <dz:voteUpCount>8</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>71</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455437.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>jacobsebastian</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/742023.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/sql_server_cast_vs_convert.html</feedburner:origLink></item>
+    <item>
+      <title>Project Lombok - Java Without the Boilerplate</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/fE-0v4FH18Q/project_lombok_java_without_the_boilerplate.html</link>
+      <description>This article details how to use Project Lombok and it's bytecode generation magic to remove so much standard boilerplate from Java classes.</description>
+      <category>java</category>
+      <pubDate>Tue, 27 Jul 2010 12:09:08 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455491.html</guid>
+      <dc:creator>HamletDRC</dc:creator>
+      <dc:date>2010-07-27T12:09:08Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/project_lombok_java_without_the_boilerplate.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455491.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>This article details how to use Project Lombok and it's bytecode generation magic to remove so much standard boilerplate from Java classes. <br/><br/><a href='http://www.dzone.com/links/rss/project_lombok_java_without_the_boilerplate.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455491' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/fE-0v4FH18Q" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455491</dz:linkId>
+      <dz:submitDate>2010-07-27T06:52:12Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T12:09:08Z</dz:promoteDate>
+      <dz:voteUpCount>12</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>394</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455491.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>HamletDRC</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/258218.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/project_lombok_java_without_the_boilerplate.html</feedburner:origLink></item>
+    <item>
+      <title>JavaFX Revisited: Moving Forward</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/0PVBY8jDz6M/javafx_revisited_moving_forward.html</link>
+      <description>One of the most popular polls we've had on JavaLobby recently was based around the future of JavaFX. The poll started a healthy discussion covering different perspectives on that state of JavaFX. From the poll choices, most people went along with the idea that Oracle should give up on JavaFX. The success of HTML5 makes many question whether there is a need for RIA technologies such as JavaFX, Flash and Silverlight anymore. The next most popular choice was for Oracle to open source JavaFX.</description>
+      <category>java</category>
+      <category>opinion</category>
+      <category>ria</category>
+      <pubDate>Tue, 27 Jul 2010 11:39:08 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455617.html</guid>
+      <dc:creator>jsugrue</dc:creator>
+      <dc:date>2010-07-27T11:39:08Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/javafx_revisited_moving_forward.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455617.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>One of the most popular polls we've had on JavaLobby recently was based around the future of JavaFX. The poll started a healthy discussion covering different perspectives on that state of JavaFX. From the poll choices, most people went along with the idea that Oracle should give up on JavaFX. The success of HTML5 makes many question whether there is a need for RIA technologies such as JavaFX, Flash and Silverlight anymore. The next most popular choice was for Oracle to open source JavaFX. <br/><br/><a href='http://www.dzone.com/links/rss/javafx_revisited_moving_forward.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455617' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/0PVBY8jDz6M" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455617</dz:linkId>
+      <dz:submitDate>2010-07-27T10:59:14Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T11:39:08Z</dz:promoteDate>
+      <dz:voteUpCount>11</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>266</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455617.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>jsugrue</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/185351.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/javafx_revisited_moving_forward.html</feedburner:origLink></item>
+    <item>
+      <title>A tutorial on Remote Procedure Calls (RPCs) in Google Web Toolkit</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/UzdF9wa7Ux8/a_tutorial_on_remote_procedure_calls_rpcs_in_goog.html</link>
+      <description>I wrote a short-ish tutorial on how to use RPCs in GWT. Sample code available to download.</description>
+      <category>ajax</category>
+      <category>eclipse</category>
+      <category>how-to</category>
+      <category>java</category>
+      <pubDate>Tue, 27 Jul 2010 10:54:56 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/454565.html</guid>
+      <dc:creator>hebejebelus</dc:creator>
+      <dc:date>2010-07-27T10:54:56Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/a_tutorial_on_remote_procedure_calls_rpcs_in_goog.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/454565.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>I wrote a short-ish tutorial on how to use RPCs in GWT. Sample code available to download.<br/><br/><a href='http://www.dzone.com/links/rss/a_tutorial_on_remote_procedure_calls_rpcs_in_goog.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=454565' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/UzdF9wa7Ux8" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>454565</dz:linkId>
+      <dz:submitDate>2010-07-25T21:00:40Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T10:54:56Z</dz:promoteDate>
+      <dz:voteUpCount>9</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>209</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/454565.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>hebejebelus</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/780481.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/a_tutorial_on_remote_procedure_calls_rpcs_in_goog.html</feedburner:origLink></item>
+    <item>
+      <title>WordPress › News » PHP 4 and MySQL 4 End of Life Announcement</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/xLb_h033cQo/wordpress_news_php_4_and_mysql_4_end_of_life_anno.html</link>
+      <description>Our approach with WordPress has always been to make it run on common server configurations. We want users to have flexibility when choosing a host for their precious content. Because of this strategy, WordPress runs pretty much anywhere. Web hosting platforms, however, change over time, and we occasionally are able to reevaluate some of the requirements for running WordPress. Now is one of those times. You probably guessed it from the title — we’re finally ready to announce the end of support for PHP 4 and MySQL 4!</description>
+      <category>announcement</category>
+      <category>database</category>
+      <category>php</category>
+      <category>server</category>
+      <pubDate>Tue, 27 Jul 2010 10:54:22 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/454799.html</guid>
+      <dc:creator>@thierry_lefort</dc:creator>
+      <dc:date>2010-07-27T10:54:22Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/wordpress_news_php_4_and_mysql_4_end_of_life_anno.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/454799.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'>Our approach with WordPress has always been to make it run on common server configurations. We want users to have flexibility when choosing a host for their precious content. Because of this strategy, WordPress runs pretty much anywhere. Web hosting platforms, however, change over time, and we occasionally are able to reevaluate some of the requirements for running WordPress. Now is one of those times. You probably guessed it from the title — we’re finally ready to announce the end of support for PHP 4 and MySQL 4!<br/><br/><a href='http://www.dzone.com/links/rss/wordpress_news_php_4_and_mysql_4_end_of_life_anno.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=454799' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/xLb_h033cQo" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>454799</dz:linkId>
+      <dz:submitDate>2010-07-26T07:51:13Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T10:54:22Z</dz:promoteDate>
+      <dz:voteUpCount>7</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>117</dz:clickCount>
+      <dz:commentCount>0</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/454799.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>Thierry.Lefort</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/252611.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/wordpress_news_php_4_and_mysql_4_end_of_life_anno.html</feedburner:origLink></item>
+    <item>
+      <title>Daily Dose - DTrace Co-inventor Leaves Oracle</title>
+      <link>http://feeds.dzone.com/~r/dzone/frontpage/~3/FSu20YMRAdU/daily_dose_dtrace_coinventor_leaves_oracle.html</link>
+      <description>Bryan Cantrill, the co-inventor of DTrace, left Oracle recently.  IBM could be losing money if the new EU probe finds unlawful tactics in the mainframe market.</description>
+      <category>.net</category>
+      <category>java</category>
+      <category>news</category>
+      <category>web design</category>
+      <pubDate>Tue, 27 Jul 2010 10:02:34 GMT</pubDate>
+      <guid isPermaLink="false">http://www.dzone.com/links/455405.html</guid>
+      <dc:creator>mitchp</dc:creator>
+      <dc:date>2010-07-27T10:02:34Z</dc:date>
+      <content:encoded><![CDATA[<a href='http://www.dzone.com/links/rss/daily_dose_dtrace_coinventor_leaves_oracle.html'><img src='http://cdn.dzone.com/images/thumbs/120x90/455405.jpg' style='width:120;height:90;float:left;vertical-align:top;border:1px solid #ccc;' /></a><p style='margin-left: 130px;'> Bryan Cantrill, the co-inventor of DTrace, left Oracle recently.  IBM could be losing money if the new EU probe finds unlawful tactics in the mainframe market.<br/><br/><a href='http://www.dzone.com/links/rss/daily_dose_dtrace_coinventor_leaves_oracle.html'><img src='http://www.dzone.com/links/voteCountImage?linkId=455405' border='0'/></a></p><img src="http://feeds.feedburner.com/~r/dzone/frontpage/~4/FSu20YMRAdU" height="1" width="1"/>]]></content:encoded>
+      <dz:linkId>455405</dz:linkId>
+      <dz:submitDate>2010-07-27T03:07:10Z</dz:submitDate>
+      <dz:promoteDate>2010-07-27T10:02:34Z</dz:promoteDate>
+      <dz:voteUpCount>12</dz:voteUpCount>
+      <dz:voteDownCount>0</dz:voteDownCount>
+      <dz:clickCount>160</dz:clickCount>
+      <dz:commentCount>1</dz:commentCount>
+      <dz:thumbnail>http://www.dzone.com/links/images/thumbs/120x90/455405.jpg</dz:thumbnail>
+      <dz:submitter>
+        <dz:username>mitchp</dz:username>
+        <dz:userimage>http://www.dzone.com/links/images/avatars/478055.gif</dz:userimage>
+      </dz:submitter>
+    <feedburner:origLink>http://www.dzone.com/links/rss/daily_dose_dtrace_coinventor_leaves_oracle.html</feedburner:origLink></item>
+  </channel>
+</rss>
