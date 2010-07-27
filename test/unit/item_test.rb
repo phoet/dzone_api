@@ -1,8 +1,8 @@
 require 'test_helper'
 
 class ItemTest < ActiveSupport::TestCase
-  # Replace this with your real tests.
-  test "the truth" do
-    assert true
+  test "parse_from_url" do
+    mash = Item.parse_from_url
+    assert_not_nil(mash)
   end
 end

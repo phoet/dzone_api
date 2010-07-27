@@ -3,9 +3,9 @@ class CreateItems < ActiveRecord::Migration
     create_table :items do |t|
       t.string :title
       t.text :description
-      t.date :publishing_date
+      t.datetime :publishing_date
       t.string :categories
-      t.long :link_id
+      t.integer :link_id
       t.integer :vote_up
       t.integer :vote_down
       t.integer :clicks
