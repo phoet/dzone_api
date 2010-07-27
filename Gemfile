@@ -13,6 +13,8 @@ gem "sqlite3-ruby", :require => "sqlite3"
 
 ## Bundle the gems you use:
 gem "httpclient", "2.1.5.2"
+gem "hashie", "0.2.1"
+gem "crack", "0.1.8"
 
 ## Bundle gems used only in certain environments:
 # gem "rspec", :group => :test

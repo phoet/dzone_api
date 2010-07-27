@@ -1,4 +1,6 @@
 DzoneApi::Application.routes.draw do |map|
+  resources :items
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
