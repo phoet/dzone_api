@@ -5,7 +5,6 @@ class CreateItems < ActiveRecord::Migration
       t.text :description
       t.datetime :publishing_date
       t.string :categories
-      t.integer :link_id
       t.integer :vote_up
       t.integer :vote_down
       t.integer :clicks

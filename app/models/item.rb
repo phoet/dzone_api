@@ -4,17 +4,21 @@ require 'crack/xml'
 
 class Item < ActiveRecord::Base
   
-  def self.parse_from_url(url="http://feeds.dzone.com/dzone/frontpage")
+  validates_presence_of :title, :description, :publishing_date, :categories,
+                        :vote_up, :vote_down, :clicks, :comments,
+                        :thumbnail, :submitter_name, :submitter_image
+  
+  def self.frontpage_items(url="http://feeds.dzone.com/dzone/frontpage")
     response = HTTPClient.new.get_content url
     response = response.force_encoding('UTF-8')
     hash = Crack::XML.parse response
     hash['rss']['channel']['item'].map do |i|
        item = Item.new
+       item.id = i['dz:linkId'].to_i
        item.title = i['title']
        item.description = i['description']
        item.publishing_date = i['pubDate']
        item.categories = ([] << i['category']).join(', ')
-       item.link_id = i['dz:linkId']
        item.vote_up = i['dz:voteUpCount']
        item.vote_down = i['dz:voteDownCount']
        item.clicks = i['dz:clickCount']

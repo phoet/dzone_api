@@ -16,7 +16,6 @@ ActiveRecord::Schema.define(:version => 20100727165007) do
     t.text     "description"
     t.datetime "publishing_date"
     t.string   "categories"
-    t.integer  "link_id"
     t.integer  "vote_up"
     t.integer  "vote_down"
     t.integer  "clicks"
@@ -27,5 +26,5 @@ ActiveRecord::Schema.define(:version => 20100727165007) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
-
+  
 end
