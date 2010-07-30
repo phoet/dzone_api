@@ -1,5 +1,5 @@
 --- 
-hash: 6de6ca16b9edb2f0e1898099e9bae3b0c0a56251
+hash: 1642bdf60f16dd2ce59ac66509b8cbc766a77cc3
 sources: 
 - Rubygems: 
     uri: http://gemcutter.org
@@ -54,8 +54,6 @@ specs:
     version: 0.9.26
 - crack: 
     version: 0.1.8
-- haml: 
-    version: 3.0.15
 - hashie: 
     version: 0.2.1
 - httpclient: 
@@ -71,10 +69,6 @@ specs:
 dependencies: 
   rails: 
     version: = 3.0.0.beta
-    group: 
-    - :default
-  haml: 
-    version: = 3.0.15
     group: 
     - :default
   sqlite3-ruby: 

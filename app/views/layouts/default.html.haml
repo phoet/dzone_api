@@ -1,0 +1,20 @@
+!!! XML
+!!!
+%html{:xmlns=>"http://www.w3.org/1999/xhtml"}
+  %head
+    %meta{'http-equiv'=>"content-type", :content=>"text/html; charset=UTF-8"}
+    %meta{'http-equiv'=>"content-language", :content=>"us"}
+    %meta{'http-equiv'=>"language", :content=>"us"}
+    %meta{:name=>"language", :content=>"english, us"}
+    %meta{:name=>"robots", :content=>"index,follow"}
+    
+    %link{:rel=>"shortcut icon", :href=>"/favicon.png", :type=>"image/png"}
+    %link{:rel=>"icon", :href=>"/favicon.png", :type=>"image/png"}
+    
+    = javascript_include_tag 'application'
+    = stylesheet_link_tag 'style'
+
+    %title="moin moin"
+
+  %body
+    =yield
