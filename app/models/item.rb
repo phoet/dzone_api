@@ -26,8 +26,15 @@ class Item < ActiveRecord::Base
        item.thumbnail = i['dz:thumbnail']
        item.submitter_name = i['dz:submitter']['dz:username']
        item.submitter_image = i['dz:submitter']['dz:userimage']
+       p real_link(item.id)
        item
     end
+  end
+  
+  def self.real_link(itemid)
+    response = HTTPClient.new.get_content "http://www.dzone.com/links/#{itemid}.html"
+    response = response.force_encoding('UTF-8')
+    return $1 if /<div class="ldTitle"><a .* href="([^"]+).*">/.match(response)
   end
   
 end
