@@ -1,8 +1,10 @@
 require 'test_helper'
 
 class ItemsControllerTest < ActionController::TestCase
-  # Replace this with your real tests.
   test "the truth" do
-    assert true
+     get :index
+     assert_response :success
+     assert_not_nil assigns(:items)
   end
+  
 end
