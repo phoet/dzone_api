@@ -3,8 +3,7 @@ source 'http://gemcutter.org'
 
 
 gem "rails", "3.0.0.beta"
-#haml integration does not work properly, index.html.haml won't get used --> Missing template items/index with {:formats=>[:html]}
-#gem "haml", "3.0.15"
+gem "haml", "3.0.15"
 
 ## Bundle edge rails:
 # gem "rails", :git => "git://github.com/rails/rails.git"
