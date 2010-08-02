@@ -1,1 +1,34 @@
-noop
+%h2
+  %a{:href=>"index.html", :title=>""} DZone needs an API
+
+%p{:class=>"post-info"}
+  Posted by 
+  %a{:href=>"index.html"} phoet
+  | Filed under 
+  %a{:href=>"index.html"} dzone, api
+  
+%p
+  %strong DZone
+  is a cool resource for developers. since they don't offer an API, but I need to access
+  the vote-up/-down functionality for my
+  %a{:href=>""} iPhone project
+  i started wrapping the website calls within Ruby to provide a RESTful API.
+
+%p
+  As a first step, you can now get the latest DZone items as 
+  %a{:href=>'items.xml'} XML
+  or 
+  %a{:href=>'items.json'} JSON.
+  The stuff is running on 
+  %a{:href=>'http://heroku.com'} Heroku
+  and the items will be updated once an hour.
+
+%p
+  Stuff that is missing, but will come soon:
+  %ul
+    %li Documentation
+    %li Examples
+    %li API for Voting
+
+%p{:class=>"post-footer"}
+  %span{:class=>"date"} Aug 01, 2010
