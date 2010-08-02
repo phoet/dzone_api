@@ -40,20 +40,19 @@ class Item < ActiveRecord::Base
   end
   
   def self.vote_up(user, pass, itemid)
-    vote(user, pass, itemid, 'incrementVoteCount')
+    vote(user, pass, itemid, :up)
   end
   
   def self.vote_down(user, pass, itemid)
-    vote(user, pass, itemid, 'decrementVoteCount')
+    vote(user, pass, itemid, :down)
   end
   
   def self.vote(user, pass, itemid, type)
     client = HTTPClient.new
     client.set_cookie_store("#{Rails.root}/tmp/cookie.dat")
-    client.get_content "http://www.dzone.com/links/j_acegi_security_check?j_username=#{user}&j_password=#{pass}&_acegi_security_remember_me=on"
+    client.get "http://www.dzone.com/links/j_acegi_security_check?j_username=#{user}&j_password=#{pass}&_acegi_security_remember_me=on"
     
     header = {
-    'User-Agent'=>'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8',
     'Accept'=>'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
     'Accept-Language'=>'en-us,en;q=0.5',
     'Accept-Encoding'=>'gzip,deflate',
@@ -64,9 +63,9 @@ class Item < ActiveRecord::Base
     post = {
     'callCount'=>'1',
     'c0-scriptName'=>'LinkManager',
-    'c0-methodName'=>type,
+    'c0-methodName'=>'incrementVoteCount', # use 'decrementVoteCount' for unvote
     'c0-param0'=>"number:#{itemid}",
-    'c0-param1'=>'number:1',
+    'c0-param1'=>"number:#{type == :up ? 1 : 0}",
     'c0-param2'=>'boolean:false',
     'xml'=>'true'
     }
