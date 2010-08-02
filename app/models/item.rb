@@ -73,9 +73,4 @@ class Item < ActiveRecord::Base
     client.post('http://www.dzone.com/links/dwr/exec/LinkManager.incrementVoteCount.dwr', post, header)
     
   end
-  
-  def login
-    HTTPClient.new.get_content "http://www.dzone.com/links/j_acegi_security_check?j_username=#{user}&j_password=#{pass}&_acegi_security_remember_me=on"
-  end
-  
 end
