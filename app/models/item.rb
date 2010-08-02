@@ -6,7 +6,7 @@ class Item < ActiveRecord::Base
   
   validates_presence_of :title, :description, :publishing_date, :categories,
                         :vote_up, :vote_down, :clicks, :comments,
-                        :thumbnail, :submitter_name, :submitter_image
+                        :thumbnail, :submitter_name, :submitter_image, :deep_link
   
   def self.frontpage_items(url="http://feeds.dzone.com/dzone/frontpage")
     response = HTTPClient.new.get_content url
