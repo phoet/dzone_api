@@ -62,6 +62,5 @@ class Item < ActiveRecord::Base
     'xml'=>'true'
     }
     client.post('http://www.dzone.com/links/dwr/exec/LinkManager.incrementVoteCount.dwr', post, header)
-    
   end
 end
