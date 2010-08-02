@@ -39,15 +39,7 @@ class Item < ActiveRecord::Base
     raise "could not find the deep link of item=#{itemid}"
   end
   
-  def self.vote_up(user, pass, itemid)
-    vote(user, pass, itemid, :up)
-  end
-  
-  def self.vote_down(user, pass, itemid)
-    vote(user, pass, itemid, :down)
-  end
-  
-  def self.vote(user, pass, itemid, type)
+  def self.vote(user, pass, itemid, type=:up)
     client = HTTPClient.new
     client.set_cookie_store("#{Rails.root}/tmp/cookie.dat")
     client.get "http://www.dzone.com/links/j_acegi_security_check?j_username=#{user}&j_password=#{pass}&_acegi_security_remember_me=on"
