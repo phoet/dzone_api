@@ -10,6 +10,7 @@ one:
   clicks: 1
   comments: 1
   thumbnail: MyString
+  deep_link: MyString
   submitter_name: MyString
   submitter_image: MyString
 
@@ -23,5 +24,6 @@ two:
   clicks: 1
   comments: 1
   thumbnail: MyString
+  deep_link: MyString
   submitter_name: MyString
   submitter_image: MyString

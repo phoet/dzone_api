@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(:version => 20100727165007) do
     t.integer  "clicks"
     t.integer  "comments"
     t.string   "thumbnail"
+    t.string   "deep_link"
     t.string   "submitter_name"
     t.string   "submitter_image"
     t.datetime "created_at"

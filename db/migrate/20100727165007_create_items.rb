@@ -10,6 +10,7 @@ class CreateItems < ActiveRecord::Migration
       t.integer :clicks
       t.integer :comments
       t.string :thumbnail
+      t.string :deep_link
       t.string :submitter_name
       t.string :submitter_image
 
