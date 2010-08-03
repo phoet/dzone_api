@@ -8,11 +8,13 @@
   %a{:href=>"index.html"} dzone, api
   
 %p
+  %img{:src=>"/images/dzone.gif", :class=>"float-left"}
   %strong DZone
-  is a cool resource for developers. since they don't offer an API, but I need to access
-  the vote-up/-down functionality for my
-  %a{:href=>""} iPhone project
-  i started wrapping the website calls within Ruby to provide a RESTful API.
+  is a cool resource for developers. Since they currently 
+  %a{:href=>"http://meta.dzone.com/questions/66/dzone-api"} don't offer an API
+  i started wrapping the rss-feeds and website calls within Ruby to provide a RESTful API via Rails. 
+  I do this mainly for my current
+  %a{:href=>"http://github.com/phoet/dzone"} DZone iPhone project.
 
 %p
   As a first step, you can now get the latest DZone items as 
