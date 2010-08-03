@@ -1,0 +1,50 @@
+%h2 Requesting Items
+%p
+  The 10 most recent Items can be received via XML or JSON:
+  %blockquote
+    curl
+    =link_to items_url(:format=>:xml), items_url(:format=>:xml)
+    %br
+    curl
+    =link_to items_url(:format=>:json), items_url(:format=>:json)
+    
+%p
+  The schema is quite simple, but differs in some interesting points from the DZone RSS feed:
+  %pre
+    :preserve
+      [
+        {
+        "categories":"announcement, javascript, news, tools",
+        "clicks":178,
+        "comments":0,
+        "created_at":"2010-08-03T07:41:34Z",
+        "deep_link":"http://www.genuitec.com/blog/?p=1912",
+        "description":"The new MyEclipse 8.6 ...",
+        "id":459543,
+        "publishing_date":"2010-08-02T22:08:40Z",
+        "submitter_image":"http://www.dzone.com/links/images/avatars/389289.gif",
+        "submitter_name":"Zaxo101",
+        "thumbnail":"http://www.dzone.com/links/images/thumbs/120x90/459543.jpg",
+        "title":"Wicked Fast JavaScript Generation...",
+        "updated_at":"2010-08-03T07:41:34Z",
+        "vote_down":0,
+        "vote_up":10
+        },
+        [...]
+      ]
+  
+  The
+  %strong deep_link
+  property contains a link to the 
+  %strong real
+  article, so you don't have to hop on to DZone to find out where to go!
+
+%h2 Voting
+%p
+  You need to provide your login credentials for voting. This is necessary, because the call performs a login on the DZone website and basically clicks the vote-up button for you. This is very fragile and multiple calls to vote may cause the vote-count to break, so use it wisely:
+  %blockquote
+    curl
+    =link_to vote_item_url(':item-id',':user',':pass'), vote_item_url(':item-id',':user',':pass')
+
+%h2 Personalized Items
+%p coming soon

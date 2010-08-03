@@ -8,6 +8,10 @@ class Item < ActiveRecord::Base
                         :vote_up, :vote_down, :clicks, :comments,
                         :thumbnail, :submitter_name, :submitter_image, :deep_link
   
+  def vote(user, pass)
+    Item.vote(user, pass,id)
+  end
+  
   def self.frontpage_items(url="http://feeds.dzone.com/dzone/frontpage")
     response = HTTPClient.new.get_content url
     response = response.force_encoding('UTF-8')
@@ -40,6 +44,7 @@ class Item < ActiveRecord::Base
   end
   
   def self.vote(user, pass, itemid, type=:up)
+    puts "jipdidipppi #{user} #{itemid}"
     client = HTTPClient.new
     client.set_cookie_store("#{Rails.root}/tmp/cookie.dat")
     client.get "http://www.dzone.com/links/j_acegi_security_check?j_username=#{user}&j_password=#{pass}&_acegi_security_remember_me=on"

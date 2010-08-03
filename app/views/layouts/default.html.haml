@@ -20,18 +20,16 @@
     #wrap
       #header
         %h1#logo-text
-          %a{:href=>"index.html", :title=>""} DZone API
+          = link_to "DZone API", :controller => "welcome", :action => "index"
           
         %p#slogan hacking our way to a dedicated API...
 
       #nav
         %ul
           %li.current
-            %a{:href=>"index.html"} Home
+            = link_to "Home", :controller => "welcome", :action => "index"
           %li
-            %a{:href=>"items.xml"} XML
-          %li
-            %a{:href=>"items.json"} JSON
+            = link_to "Docs", :controller => "welcome", :action => "docs"
 
       #content-wrap
         #main
@@ -41,7 +39,9 @@
           %h3 Explore
           %ul.sidemenu
             %li
-              %a{:href=>"index.html"} Home
+              = link_to "Home", :controller => "welcome", :action => "index"
+            %li
+              = link_to "Docs", :controller => "welcome", :action => "docs"
               
       #footer-wrap
         #footer-content
@@ -50,7 +50,9 @@
               %h3 Main
               %ul
                 %li
-                  %a{:href=>"index.html"} Home
+                  = link_to "Home", :controller => "welcome", :action => "index"
+                %li
+                  = link_to "Docs", :controller => "welcome", :action => "docs"
                 
             %div{:class=>"col3-center"}
               %h3 Items
@@ -82,6 +84,9 @@
               %a{:href=>"http://jigsaw.w3.org/css-validator/check/referer"}CSS
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-            %a{:href=>"index.html"} Home
+
+            = link_to "Home", :controller => "welcome", :action => "index"
+            &nbsp;|&nbsp;
+            = link_to "Docs", :controller => "welcome", :action => "docs"
             &nbsp;|&nbsp;
             %a{:href=>"http://github.com/phoet/dzone_api"} GitHub
