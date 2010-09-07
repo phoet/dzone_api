@@ -30,12 +30,11 @@ class Item < ActiveRecord::Base
        item.thumbnail = i['dz:thumbnail']
        item.submitter_name = i['dz:submitter']['dz:username']
        item.submitter_image = i['dz:submitter']['dz:userimage']
-       item.deep_link = deep_link(item.id)
        item
     end
   end
   
-  def self.deep_link(itemid)
+  def self.fetch_deep_link(itemid)
     p "deep linking itemid=#{itemid}"
     response = HTTPClient.new.get_content "http://www.dzone.com/links/#{itemid}.html"
     response = response.force_encoding('UTF-8')
