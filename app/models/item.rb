@@ -14,7 +14,7 @@ class Item < ActiveRecord::Base
   
   def self.frontpage_items(url="http://feeds.dzone.com/dzone/frontpage")
     response = HTTPClient.new.get_content url
-    response = response.force_encoding('UTF-8')
+    response = response.force_encoding('UTF-8') if response.respond_to?(:force_encoding)
     hash = Crack::XML.parse response
     hash['rss']['channel']['item'].map do |i|
        item = Item.new
@@ -37,7 +37,7 @@ class Item < ActiveRecord::Base
   def self.fetch_deep_link(itemid)
     p "deep linking itemid=#{itemid}"
     response = HTTPClient.new.get_content "http://www.dzone.com/links/#{itemid}.html"
-    response = response.force_encoding('UTF-8')
+    response = response.force_encoding('UTF-8') if response.respond_to?(:force_encoding)
     return $1 if /<div class="ldTitle"><a .* href="([^"]+).*">/.match(response)
     raise "could not find the deep link of item=#{itemid}"
   end
