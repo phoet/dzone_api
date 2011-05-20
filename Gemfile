@@ -10,3 +10,7 @@ gem "httpclient", "2.2.0.2"
 gem "hashie", "1.0.0"
 gem "crack", "0.1.8"
 gem "rake", "0.8.7"
+
+group :development do
+  gem "heroku"
+end
