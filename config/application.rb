@@ -38,5 +38,9 @@ module DzoneApi
 
     # Configure sensitive parameters which will be filtered from the log file.
     config.filter_parameters << :password
+    
+    config.secret_token = 'b4b8de47496755a5d7cfc79874e7815956d61de0a61a6b53262104bab9ee885fbeb02277f848def8dcf92b5fc02a2230b3f73becc2e9c7de405b5f37dcf977e4'
+    config.session_store :cookie_store, :key => '_dzone_api_session', :secret => '9ae78457d163ff5f5ac1ca15320c1c00717c84c2a536ed99cd47f95831a8cf39cb48d49cede5af042f7a41ad5f7831a76b585b45259ee01325e61dfd3062e8a7'
+    
   end
 end

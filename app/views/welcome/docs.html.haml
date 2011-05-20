@@ -38,6 +38,14 @@
   property contains a link to the 
   %strong real
   article, so you don't have to hop on to DZone to find out where to go!
+  
+%p
+  You can change the number of items returned by using the 
+  %strong limit
+  parameter:
+  %blockquote
+    curl
+    =link_to items_url(:format=>:xml, :limit=>25), items_url(:format=>:xml, :limit=>25)
 
 %h2 Voting
 %p
