@@ -44,3 +44,7 @@ module DzoneApi
     
   end
 end
+
+# http://apidock.com/rails/v2.3.8/ActiveRecord/Serialization/to_json
+ActiveRecord::Base.include_root_in_json = false
+ 
